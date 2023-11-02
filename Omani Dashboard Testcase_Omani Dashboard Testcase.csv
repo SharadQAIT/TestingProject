@@ -1,0 +1,86 @@
+"Task Name","Task ID","Parent Task ID","Custom Status","Priority","Billing Type","Task Type","Test Case Title","pre condition","Test Steps","Test Data","Expected Result","Description / Actual Result"
+"Omani","1",,"Open","Low","None","Test Cases",,,,,,
+"To check all the campaigns data for what's up and email shows or not while click on dashboard icon",,"1","Open","Low","None","Test Cases","To check all the campaigns data for what's up and email shows or not while click on dashboard icon",,"1) To click into login web app
+2) To click on dashboard icon",,"The user should redirect on dashboard page and should see all the data for What's up , email campaign campaigns",
+"To check what's up status ""Sent"", ""Delivered"",""Opened"" able to see in dashboard or not for what's up flow",,"1","Open","Medium","None","Test Cases","To check what's up status ""Sent"", ""Delivered"",""opened"" able to see in dashboard or not for what's up flow",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Sent"", ""Delivered"", ""opened""",,"The user should see ""Sent"" ""Delivered"" ""Opened"" status for what's up flow",
+"To check what's up status ""Sent"", ""Delivered"",""Opened"" able to see with number of count  in dashboard or not for what's up flow",,"1","Open","Low","None","Test Cases","To check what's up status ""Sent"", ""Delivered"",""opened"" able to see with number of count  in dashboard or not for what's up flow",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Sent"", ""Delivered"", ""Opened"" with count",,"The user should see what's up status ""Sent"", ""Delivered"",""Opened"" with number of count  in dashboard or not for what's up flow",
+"To check what's up status ""Delivered"",""Opened"" able to see with Percentage in dashboard or not for what's up flow",,"1","Open","Medium","None","Test Cases","To check what's up status ""Delivered"",""Opened"" able to see with Percentage in dashboard or not for what's up flow",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Delivered"", ""Opened"" percentage ",,"The user should see what's up status ""Sent"", ""Delivered"",""opened"" with number of count  in dashboard or not for what's up flow",
+"To check Email status ""Delivered"", ""Click"",""Open"" able to see in dashboard or not for email flow",,"1","Open","Low","None","Test Cases","To check Email status ""Delivered"", ""Click"",""Open"" able to see in dashboard or not for email flow",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Delivered"", ""Click"",""Open""",,"The user should see ""Sent"" ""Delivered"" Read"" status for email flow",
+"To check email status ""Delivered"", ""Click"",""Open"" able to see with number of count  in dashboard or not for email flow",,"1","Open","Medium","None","Test Cases","To check email status ""Delivered"", ""Click"",""Open"" able to see with number of count  in dashboard or not for email flow",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Sent"", ""Delivered"", ""Opened"" with count",,"The user should see what's up status ""Sent"", ""Delivered"",""Opened"" with number of count  in dashboard or not for what's up flow",
+"To check email status ""Delivered"", ""Click"",""Open"" able to see with Percentage in dashboard or not for email flow",,"1","Open","Medium","None","Test Cases","To check email status ""Delivered"", ""Click"",""Open"" able to see with Percentage in dashboard or not for email flow",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Sent"", ""Delivered"", ""Opened"" with percentage ",,"The user should see email status ""Delivered"", ""Click"",""Open"" able to see with Percentage in dashboard or not for email flow",
+"To check response rate correctly displayed or not after given reply by users  for what's up flow ",,"1","Open","Medium","None","Test Cases","To check response rate correctly displayed or not after given reply by users  for what's up flow ",,"1) To click into login web app
+2) To click on dashboard icon
+3) View response rate with percentage ",,"The user should see response rate in percentage",
+"To check completion rate correctly displayed or not after given reply by users  for what's up flow ",,"1","Open","Medium","None","Test Cases","To check completion rate correctly displayed or not after given reply by users  for what's up flow ",,"1) To click into login web app
+2) To click on dashboard icon
+3) View completion rate with percentage ",,"The user should see completion rate in percentage",
+"To check how many times the email has opened with total delivered over the charts",,"1","Open","High","None","Test Cases","To check how many times the email has opened with total delivered over the charts",,"1) To click into login web app
+2) To click on dashboard icon
+3) View open times data like ""Time"", ""300 opened"",""15% of total delivered"" etc. ",,"The user should see the number of times email has opened with total delivered count with charts",
+"To verify able to see the highest best time email opened",,"1","Open","Medium","None","Test Cases","To verify able to see the highest best time email opened",,"1) To click into login web app
+2) To click on dashboard icon
+3) View highest open times data like ""40% of delivered messages were opened"" etc. ",,"The user should able to see the highest best time email opened",
+"To verify able to see Flow completion stastics or not",,"1","Open","Medium","None","Test Cases","To verify able to see Flow completion stastics or not",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Flow completion stastics""",,"The user should able to see the flow completion stastics",
+"To check minimum,maximum and median number of steps shows or not as per what's up flow",,"1","Open","Medium","None","Test Cases","To check minimum,maximum and median number of steps shows or not as per what's up flow",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Flow completion stastics""
+4) View number of steps",,"The user should able to see the number of steps as per executed via what's up flow.",
+"To check how much time to complete execute the what's up flow",,"1","Open","Medium","None","Test Cases","To check how much time to complete execute the what's up flow",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Flow completion stastics""
+4) View ""Time to complete""",,"The user should see how much time to complete execute the what's up flow",
+"To check able to see the ""Age & Gender"" data and text name same as per figma or not",,"1","Open","Medium","None","Test Cases","To check able to see the ""Age & Gender"" data same as per figma or not",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Age & Gender"" data",,"The user should see the Age & gender data and text name as per figma",
+"To check is able to see the number of counts for male and female as per below 18 age",,"1","Open","Medium","None","Test Cases","To check is able to see the number of counts for male and female as per below 18 age",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Age & Gender"" data
+4) View number of counts for male and female as per below 18 age",,"The user should see the details count for male and female as per below 18 age",
+"To check is able to see the number of counts for male and female as per between 18-25 age",,"1","Open","Medium","None","Test Cases","To check is able to see the number of counts for male and female as per between 18-25 age",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Age & Gender"" data
+4) View number of counts for male and female between the 18-25 age",,"The user should see the details count for male and female between the 18-25 age",
+"To check is able to see the number of counts for male and female as per between 26-35 age",,"1","Open","Medium","None","Test Cases","To check is able to see the number of counts for male and female as per between 26-35 age",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Age & Gender"" data
+4) View number of counts for male and female between the 18-25 age",,"The user should see the details count for male and female between the 26-35 age",
+"To check is able to see the number of counts for male and female as per between 36-45 age",,"1","Open","Medium","None","Test Cases","To check is able to see the number of counts for male and female as per between 36-45 age",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Age & Gender"" data
+4) View number of counts for male and female between the 36-45 age",,"The user should see the details count for male and female between the 36-45 age",
+"To check is able to see the number of counts for male and female as per between 46-55 age",,"1","Open","Medium","None","Test Cases","To check is able to see the number of counts for male and female as per between 46-55age",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Age & Gender"" data
+4) View number of counts for male and female between the 36-45 age",,"The user should see the details count for male and female between the 46-55 age",
+"To check is able to see the number of counts for male and female as per between 56-65 age",,"1","Open","Medium","None","Test Cases","To check is able to see the number of counts for male and female as per between 56-65 age",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Age & Gender"" data
+4) View number of counts for male and female between the 56-65 age",,"The user should see the details count for male and female between the 56-65 age",
+"To check is able to see the number of counts for male and female as per between 66-75 age",,"1","Open","Medium","None","Test Cases","To check is able to see the number of counts for male and female as per between 66-75 age",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Age & Gender"" data
+4) View number of counts for male and female between the 56-65 age",,"The user should see the details count for male and female between the 66-75 age",
+"To check is able to see the number of counts for male and female over the 75 age",,"1","Open","Medium","None","Test Cases","To check is able to see the number of counts for male and female over the 75 age",,"1) To click into login web app
+2) To click on dashboard icon
+3) View ""Age & Gender"" data
+4) View number of counts for male and female over the 75 age",,"The user should see the details count for male and female over the 75 age",
+"To check verify able to see the state name as per audience details with number of counts",,"1","Open","Medium","None","Test Cases","To check verify able to see the state name as per audience details with number of counts",,"1) To click into login web app
+2) To click on dashboard icon
+3) View Parish and see number of states",,"The user should see the number of states as per the audience details",
+"To check all the details of dashboard for what's up as per select what's up and email flow",,"1","Open","Medium","None","Test Cases","To check all the details of dashboard for what's up as per select what's up and email flow",,"1) To click into login web app
+2) To click on what's up and email icon for dashboard
+3) View details of what's up and email campaign list",,"The user should see details of what's up and email campaign name for filter",
